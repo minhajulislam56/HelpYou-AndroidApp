@@ -1,6 +1,6 @@
 # Project Profile
 Title: HelpYou <br>
-<a href="https://mega.nz/file/ysMgVQpR#jYK08sVHpu6gdqkGL_FyVSnLNAuq9d6g1DMMXv3q2C8" target="_blank" style="color:red">Download App</a>
+<a href="https://mega.nz/file/ysMgVQpR#jYK08sVHpu6gdqkGL_FyVSnLNAuq9d6g1DMMXv3q2C8" target="_blank" >Download App</a><br>
 Front-End Tools: Android Studio, Intellij <br>
 Back-End Tools: Firebase API & Database <br>
 Language: Java, JavaScript <br>
